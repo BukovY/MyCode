@@ -1,0 +1,9 @@
+.wrapper {
+  max-width: calc(100vw - 78px);
+}
+
+.buttons {
+  display: flex;
+  gap: 16px;
+  flex-direction: row;
+}
